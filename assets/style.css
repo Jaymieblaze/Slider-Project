@@ -332,4 +332,14 @@ header a{
     .carousel .list .item .content .title{
         font-size: 30px;
     }
+
+    .carousel .list .item .content .des{
+        line-height: 1.5em;
+        height: 12em;
+        overflow: hidden;
+    }
+
+    .carousel .list .item .content .buttons{
+        top: 0;
+    }
 }       
